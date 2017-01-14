@@ -1,4 +1,4 @@
-# Introdução
+# 1. Introdução
 
 #### HTML (HyperText Markup Language)
 - Criado em 1993
@@ -17,7 +17,7 @@
 - O arquivo-objeto é parte da janela-objeto
 - Tem métodos e propriedades para acesso aos seus objetos
 
-# Estrutura de arquivos/pastas
+# 2. Estrutura de arquivos/pastas
 ```
 ├── index.html
 ├── static
@@ -148,7 +148,7 @@ h1,h2,h3,h4,h5,h6,p {
 Por padrão, salvaremos o arquivo com o nome ```style.css```
 
 
-#### Menu
+# 4. Menu
 **HTML**
 Para a criação do menu, são utilizadas as tags ```<nav>```, ```<div>```, ```<a>```, ```<button>```, ```<ul>``` e ```<li>```.
 A tag NAV, exclusiva do HTML5, é usada para criação de elementos de navegação com links, como é o caso do nosso menu.
@@ -214,7 +214,7 @@ As classes podem ser definidas _inline_, dentro da tag HTML ou em um arquivo CSS
 }
 ```
 
-#### Banner
+# 5. Banner
 **HTML**
 Para criação do banner, usaremos as tag ```<header>```, ```<img>``` e ```<div>```.
 A tag ```<header>```, exclusiva do HTML5, indica a seção introdutória da página, normamente um banner ou slideshow. Para mostrar o banner, usamos a tag ```<img>```, que carrega uma imagem do arquivo ou de um site, de acordo com o endereço especificado.
@@ -231,7 +231,7 @@ A tag ```<header>```, exclusiva do HTML5, indica a seção introdutória da pág
   </header>
 ```
 
-#### Serviços
+# 6. Serviços
 
 **HTML**
 Na seção Serviços, usaremos a tag ```<section>```, exclusiva do HTML5, que é utilizada para separar uma seção da página.
@@ -277,7 +277,7 @@ A única classe personalizada usada aqui é a _objective_, que define uma cor de
 }
 ```
 
-#### Portfólio
+# 7. Portfólio
 **HTML**
 A seção Portfólio é bem parecida com a seção serviços, porém a segunda linha tem apenas duas colunas e cada coluna tem uma imagem e um link.
 ```
@@ -324,7 +324,7 @@ Nesta seção, teremos uma cor diferente da seção anterior.
 }
 ```
 
-#### Tecnologias
+# 8. Tecnologias
 **HTML**
 Nesta seção, definiremos uma linha centralizada que possui cinco imagens com formato retangular. Através do CSS, tornaremos essas imagens em círculos.
 ```
@@ -423,7 +423,7 @@ O CSS será usado para ajustar a posição dos objetos e fazer o "recorte" da im
 }
 ```
 
-#### Contato
+# 9. Contato
 **HTML**
 Através da biblioteca WebComponents, é possível criar um formulário de contato com design inovador e validação automática.
 ```
@@ -496,7 +496,7 @@ O CSS será utilizado para posicionamento do formulário.
 
 ### EXTRA
 
-#### Slideshow
+# 10. Slideshow
 
 Se, ao invês de colocar uma imagem como banner, você quiser ter um slideshow, é possível, através dos seguintes trechos de código:
 **HTML**
